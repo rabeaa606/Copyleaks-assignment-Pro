@@ -1,0 +1,273 @@
+{
+    "statistics": null,
+    "text": {
+        "value": "\n\n\n\n\n\n\n\n\n\n\n\n\nLikes\nFollowers\n \n\n\n\n Sign in \n\n\n\n\n\n\n\n\n\n\n\nWelcome, Login to your account.\n\n\n\n\n\n\n\n\n\n\n\n\nForget password?\n\n\nRemember me\n\n\n\n\n\n\n\n\n\n\n\n\n Sign in\n\n\n\nRecover your password.\n\nA password will be e-mailed to you.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWednesday, April 27, 2022\n\n\nContact\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTechWarrant.Com - Best Technology Stuff from Around the World\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHome\n\nApps\n\nGames\n\nInformative\n\nInternet\n\nExtensions &amp; Addns\n\nWeb Site\n\n\n\n\nGadgets\n\nNews\n\nReview\n\nVehicles &amp; Robots\n\nTop Lists\n\nTips &amp; Tutorial\n\nMisc.\n\nContact\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nHome\nDownloads\nSoftware update: Ditto 3.23.124.0\n\n\n\n\n \n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDownloads\n \nSoftware update: Ditto 3.23.124.0\n\n\n\nBy admin \nOn Oct 27, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n A new version of Ditto has become available. This program adds all kinds of functions to the standard Windows clipboard. For example, it becomes possible to paste items that were previously placed on the clipboard, the clipboard can be synchronized between different computers whereby data is sent encrypted, and the data on the clipboard can be cleaned of formatting code. The following changes and improvements have been made in this release:\n\nChanges in version 3.23.124.0\n\nDon’t auto hide the window when editing a clip\n\nDon’t hide the tooltip window when copying from html viewer, same as rtf\n\nWhen set to always on top refresh active window on first mouse move over window\n\nDon’t refresh the list when a copy is made from the description window\n\nUse on demand icu dll for upper/lower case manipulation\n\nRemoved icu dlls, use dll included in windows\n\nFixed gdi leaks\n\nHandle shift – home to select all items above the current selection\n\nUse string size to create strings, found data sometimes didn’t have a null terminator so extra data was at the end of the string\n\nAdded a way to force crash, type crash in search and shift-control click\n\nAdded support for total commander diff\n\nEnable html format by default if no formats are defined\n\nFixed issue with screen resolution changing with scaled dpi settings, window would go smaller\n\nUpdated c++ dependencies to the latest\n\nFixed issue with high cpu with search full text selected when only a few items are returning\n\nAdded a way through add ins to get/set the description\n\nAdded adv option to set the default editor font size\n\nIf searching for both description and full text use Distinct to ensure we don’t return mutliple rows\n\nFixed issue with export to text and image only allowing 1000 clips\n\nRefresh list after delete all non used clips from task tray\n\nAdded option to delete all non used clips\n\nIf database is on a network share refresh Ditto when showing if last write time of db has been updated\n\nIf db is on a network drive, or anything other than C: then wait for that db to come online\n\nAdded new global key to send a copy and save the current clipboard in one shot\n\nAdded option to not place cf_hdrop onto the drag object when dragging from Ditto. Found latest firefox wouldn’t accept drops if the cf_hdrop type was on there\n\nEnable / disable edit boxes for max count and keep days in config\n\nUpdate diff paths\n\nOrder by sticky clip order first then group, then clip order – updated indexes\n\n\n\n\nVersion number\n3.23.124.0\nRelease status\nFinal\nOperating systems\nWindows 7, Windows Vista, Windows 8, Windows 10\nWebsite\nditto\nDownload\nhttps://ditto-cp.sourceforge.io/\nFile size\n\n 4.94MB\n\n\nLicense type\nGPL\n\n\nShare this:Click to share on Facebook (Opens in new window)\nClick to share on Twitter (Opens in new window)\nClick to share on WhatsApp (Opens in new window)\nClick to share on Telegram (Opens in new window)\nClick to share on Pinterest (Opens in new window)\nClick to share on LinkedIn (Opens in new window)\nClick to share on Reddit (Opens in new window)\nClick to share on Tumblr (Opens in new window)\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nRelated posts:\nSoftware update: Directory Opus 12.18 \n\nSoftware update: Ditto 3.22.88.0 \n\nSoftware Update: WinHex 17.6 \n\nSoftware update: LibreOffice 6.3.4 \n\nSoftware Update: Shotcut 20.02.17 \n\nSoftware Update: VeraCrypt 1.24-Update7 \n\nSoftware Update: Shotcut 20.10.31 \n\nSoftware Update: Greenshot 1.3.151 Beta \n\nSoftware update: Total Commander 10.00 RC2 \n\nSoftware Update: Waterfox 2020.05 \n\n\n\n\n\n\n\n\n\n Prev Post \n\nSoftware update: AIDA64 6.30 build 5500\n\n\n\n\nNext Post \n\n‘Huawei may again purchase screens from Samsung’\n\n\n\n\n\n\n\nComments\n\n\n\n\nLoading...\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nToday’s Top Posts\n\n\n\n\n\n\nMultiple Tools for Facebook - Chrome Extension\n\n\n\n\n\n\n\n\n\nToolkit For Facebook by PlugEx (Free)- Google Chrome Extension\n\n\n\n\n\n\n\n\n\nHow To Fix 'The Media Could Not be Loaded' Error In Google Chrome\n\n\n\n\n\n\n\n\n\nHow to remove all inactive facebook friends\n\n\n\n\n\n\n\n\n\nBlurry WhatsApp Photos on Apple Watch? That's how you get them sharp\n\n\n\n\n\n\n\n\n\nHow to install Google Chrome Extension from thrid party\n\n\n\n\n\n\n\n\n\nMouse Auto Clicker Software To Auto Click In Minimized Windows\n\n\n\n\n\n\n\n\n\nText Fish  Skip paywalls, read peacefully\n\n\n\n\n\n\n\n\n\nHow to Directly Transfer Vimeo to YouTube without downloading to PC with Save to Google Drive Chrome Extension?\n\n\n\n\n\n\n\n\n\nNvidia GeForce RTX 3090 SLI Review - It could have been that beautiful\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n 2022 - TechWarrant. All Rights Reserved. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\nSign in  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome, Login to your account.\n\n\n\n\n\n\n\n\n\n\n\n\nForget password?\n\n\nRemember me\n\n\n\n\n\n\n\n\n\n\n\n\n Sign in\n\n\n\nRecover your password.\n\nA password will be e-mailed to you.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "pages": null,
+        "comparison": {
+            "identical": {
+                "source": {
+                    "chars": {
+                        "starts": [
+                            14,
+                            69,
+                            238,
+                            383,
+                            468,
+                            533,
+                            672,
+                            753,
+                            801,
+                            864,
+                            1013,
+                            1113,
+                            1176,
+                            1234,
+                            1346,
+                            1423,
+                            1489,
+                            1536,
+                            1750,
+                            1837,
+                            1913
+                        ],
+                        "lengths": [
+                            35,
+                            62,
+                            57,
+                            29,
+                            42,
+                            117,
+                            60,
+                            27,
+                            40,
+                            79,
+                            76,
+                            36,
+                            41,
+                            92,
+                            54,
+                            46,
+                            29,
+                            91,
+                            67,
+                            75,
+                            42
+                        ]
+                    },
+                    "words": {
+                        "starts": [
+                            1,
+                            9,
+                            35,
+                            55,
+                            66,
+                            75,
+                            98,
+                            110,
+                            115,
+                            124,
+                            142,
+                            158,
+                            167,
+                            176,
+                            192,
+                            203,
+                            213,
+                            220,
+                            258,
+                            273,
+                            286
+                        ],
+                        "lengths": [
+                            6,
+                            10,
+                            10,
+                            5,
+                            7,
+                            21,
+                            10,
+                            3,
+                            7,
+                            11,
+                            14,
+                            7,
+                            7,
+                            14,
+                            9,
+                            8,
+                            5,
+                            17,
+                            13,
+                            12,
+                            5
+                        ]
+                    }
+                },
+                "suspected": {
+                    "chars": {
+                        "starts": [
+                            1292,
+                            1340,
+                            1495,
+                            1626,
+                            1697,
+                            1755,
+                            1887,
+                            1961,
+                            2002,
+                            2058,
+                            2193,
+                            2287,
+                            2343,
+                            2394,
+                            2499,
+                            2569,
+                            2628,
+                            2668,
+                            2868,
+                            2948,
+                            3024
+                        ],
+                        "lengths": [
+                            35,
+                            62,
+                            57,
+                            29,
+                            42,
+                            117,
+                            60,
+                            27,
+                            40,
+                            79,
+                            76,
+                            36,
+                            41,
+                            92,
+                            54,
+                            46,
+                            29,
+                            91,
+                            67,
+                            75,
+                            42
+                        ]
+                    },
+                    "words": {
+                        "starts": [
+                            155,
+                            164,
+                            192,
+                            214,
+                            227,
+                            237,
+                            261,
+                            274,
+                            280,
+                            290,
+                            310,
+                            327,
+                            337,
+                            347,
+                            364,
+                            376,
+                            387,
+                            395,
+                            435,
+                            451,
+                            464
+                        ],
+                        "lengths": [
+                            6,
+                            10,
+                            10,
+                            5,
+                            7,
+                            21,
+                            10,
+                            3,
+                            7,
+                            11,
+                            14,
+                            7,
+                            7,
+                            14,
+                            9,
+                            8,
+                            5,
+                            17,
+                            13,
+                            12,
+                            5
+                        ]
+                    }
+                }
+            },
+            "minorChanges": {
+                "source": {
+                    "chars": {
+                        "starts": [],
+                        "lengths": []
+                    },
+                    "words": {
+                        "starts": [],
+                        "lengths": []
+                    }
+                },
+                "suspected": {
+                    "chars": {
+                        "starts": [],
+                        "lengths": []
+                    },
+                    "words": {
+                        "starts": [],
+                        "lengths": []
+                    }
+                }
+            },
+            "relatedMeaning": {
+                "source": {
+                    "chars": {
+                        "starts": [
+                            460
+                        ],
+                        "lengths": [
+                            7
+                        ]
+                    },
+                    "words": {
+                        "starts": [
+                            64
+                        ],
+                        "lengths": [
+                            1
+                        ]
+                    }
+                },
+                "suspected": {
+                    "chars": {
+                        "starts": [
+                            1689
+                        ],
+                        "lengths": [
+                            7
+                        ]
+                    },
+                    "words": {
+                        "starts": [
+                            225
+                        ],
+                        "lengths": [
+                            1
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "html": {
+        "value": null,
+        "pages": null,
+        "comparison": null
+    },
+    "version": 3
+}

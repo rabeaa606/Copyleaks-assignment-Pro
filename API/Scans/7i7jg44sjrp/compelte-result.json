@@ -1,0 +1,156 @@
+{
+    "scannedDocument": {
+        "scanId": "7i7jg44sjrp",
+        "totalWords": 293,
+        "totalExcluded": 0,
+        "credits": 2,
+        "expectedCredits": 2,
+        "creationTime": "2022-04-26T19:11:27.463306Z",
+        "metadata": {
+            "finalUrl": null,
+            "canonicalUrl": null,
+            "author": null,
+            "organization": null,
+            "filename": "file.txt",
+            "publishDate": null,
+            "creationDate": null,
+            "lastModificationDate": null,
+            "submissionDate": null,
+            "submittedBy": null
+        }
+    },
+    "results": {
+        "internet": [
+            {
+                "url": "https://tweakers.net/downloads/53444/ditto-3231240.html",
+                "id": "018920dfe5",
+                "title": "Software-update: Ditto 3.23.124.0 - Computer - Downloads - Tweakers",
+                "introduction": "Tweakers Frontpage ...",
+                "matchedWords": 188,
+                "metadata": {
+                    "finalUrl": "https://tweakers.net/downloads/53444/ditto-3231240.html",
+                    "canonicalUrl": null,
+                    "author": "Bart van Klaveren",
+                    "organization": "Tweakers",
+                    "filename": "ditto-3231240.html",
+                    "publishDate": "2020-10-27T04:57:41.0000000Z",
+                    "creationDate": null,
+                    "lastModificationDate": null,
+                    "submissionDate": null,
+                    "submittedBy": null
+                }
+            },
+            {
+                "url": "https://www.ttyshi.com/ditto%E5%92%8Ccopy.html",
+                "id": "1dfd8017d1",
+                "title": "ditto复制粘贴软件 _ditto和copy - 天天知识网",
+                "introduction": "...",
+                "matchedWords": 27,
+                "metadata": {
+                    "finalUrl": "https://www.ttyshi.com/ditto%E5%92%8Ccopy.html",
+                    "canonicalUrl": null,
+                    "author": null,
+                    "organization": null,
+                    "filename": "ditto%E5%92%8Ccopy.html",
+                    "publishDate": null,
+                    "creationDate": null,
+                    "lastModificationDate": null,
+                    "submissionDate": null,
+                    "submittedBy": null
+                }
+            },
+            {
+                "url": "https://www.techwarrant.com/software-update-ditto-3-23-124-0/",
+                "id": "a195eaf3b8",
+                "title": "Software update: Ditto 3.23.124.0 - TechWarrant",
+                "introduction": "Likes Followers Sign in Welcome, Login to your account. Forget password? Remember me ...",
+                "matchedWords": 224,
+                "metadata": {
+                    "finalUrl": "https://www.techwarrant.com/software-update-ditto-3-23-124-0/",
+                    "canonicalUrl": "https://www.techwarrant.com/software-update-ditto-3-23-124-0/",
+                    "author": "admin",
+                    "organization": "TechWarrant",
+                    "filename": "source",
+                    "publishDate": "2020-10-27T00:00:00.0000000Z",
+                    "creationDate": null,
+                    "lastModificationDate": "2021-11-14T00:00:00.0000000Z",
+                    "submissionDate": null,
+                    "submittedBy": null
+                }
+            },
+            {
+                "url": "https://www.filehorse.com/download-ditto-64/59542/change-log/",
+                "id": "af105a621a",
+                "title": "Ditto 3.24.184.0 (64-bit) Download for Windows / Change Log / FileHorse.com",
+                "introduction": "Windows Mac WebApps Español EN ES An powerful extension to the standard Windows clipboard...",
+                "matchedWords": 239,
+                "metadata": {
+                    "finalUrl": "https://www.filehorse.com/download-ditto-64/59542/change-log/",
+                    "canonicalUrl": "https://www.filehorse.com/download-ditto-64/59542/change-log/",
+                    "author": null,
+                    "organization": null,
+                    "filename": "source",
+                    "publishDate": null,
+                    "creationDate": null,
+                    "lastModificationDate": null,
+                    "submissionDate": null,
+                    "submittedBy": null
+                }
+            },
+            {
+                "url": "https://www.oldergeeks.com/downloads/file.php?id=1254",
+                "id": "c5ce755944",
+                "title": "Viewing Ditto v3.23.124.0 - OlderGeeks.com Freeware Downloads",
+                "introduction": "OlderGeeks.com Freeware Downloads no ads - no crapware - no B.S. Your downl...",
+                "matchedWords": 188,
+                "metadata": {
+                    "finalUrl": "https://www.oldergeeks.com/downloads/file.php?id=1254",
+                    "canonicalUrl": null,
+                    "author": null,
+                    "organization": null,
+                    "filename": "file.php",
+                    "publishDate": null,
+                    "creationDate": null,
+                    "lastModificationDate": null,
+                    "submissionDate": null,
+                    "submittedBy": null
+                }
+            }
+        ],
+        "database": [
+            {
+                "scanId": "hyjfpngug6f",
+                "id": "f6e868fc17",
+                "title": "Copyleaks Internal Database",
+                "introduction": "No introduction available.",
+                "matchedWords": 293,
+                "metadata": {
+                    "finalUrl": null,
+                    "canonicalUrl": null,
+                    "author": null,
+                    "organization": null,
+                    "filename": "file.txt",
+                    "publishDate": null,
+                    "creationDate": null,
+                    "lastModificationDate": null,
+                    "submissionDate": "2022-04-26T19:10:29.3767150Z",
+                    "submittedBy": null
+                }
+            }
+        ],
+        "batch": [],
+        "repositories": [],
+        "score": {
+            "identicalWords": 293,
+            "minorChangedWords": 0,
+            "relatedMeaningWords": 0,
+            "aggregatedScore": 100.0
+        }
+    },
+    "notifications": {
+        "alerts": []
+    },
+    "status": 0,
+    "error": null,
+    "developerPayload": null
+}

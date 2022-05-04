@@ -1,0 +1,241 @@
+{
+    "statistics": null,
+    "text": {
+        "value": "\n\n\n  OlderGeeks.com Freeware Downloads\r\n\nno ads - no crapware - no B.S.\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n\n\n\n\n\n\n\n\r\nYour download link is at the very bottom of the page... always.\n\r\n\n\n\n\n\r\n\n\n\n\n\r\n\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\n\r\nProcessed through Paypal\n No account required.\r\n\n\n\r\nDonate Bitcoin to this wallet:\n\r\n1KkUMXvQ2ko3xcJkzitB7WYgoW6m79WFfm\n\r\nDonate Ethereum to this wallet:\n\r\n0x40E56922F43637224935CDC35e2c96E0392A8505\n\r\nDonate Litecoin to this wallet:\n\r\nLLYAFEyqjH69gkyCEpRjXNyedRCWrVChfL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\nBuy our over-priced crap to help keep things running.\n\r\n\n\n\n\n\n\n\n\n\n\r\n\n\n\r\n\n\n\n\n\n\n\n\n\n\n\n   Home » OlderGeeks.com Freeware Downloads » Office, Home Office, Business and Writing » Clipboard Tools and Text Pasting » Ditto v3.23.124.0   \n  \r\n\n\r\n  \n\n\n\r\n  \r\n    File - Download Ditto v3.23.124.0\r\n\r\n  \r\n  \r\n    Description\n\n\n\r\n  \r\n  \r\n\n\n\n\nAlways scroll to the bottom of the page for the download link.\nWe don't believe in fake/misleading download buttons and tricks. The link is always in the same place.\n\n\r\nDitto v3.23.124.0 \n\r\n\n\r\nDitto is an extension to the standard windows clipboard. It saves each item placed on the clipboard allowing you access to any of those items at a later time. Ditto allows you to save any type of information that can be put on the clipboard, text, images, html, custom formats, .....\n\r\n\n\r\n\n\r\nFeatures\n\r\n\n\r\n    Easy to use interface\n\r\n    Search and paste previous copy entries\n\r\n    Keep multiple computer's clipboards in sync\n\r\n    Data is encrypted when sent over the network\n\r\n    Accessed from tray icon or global hot key\n\r\n    Select entry by double click, enter key or drag drop\n\r\n    Paste into any window that excepts standard copy/paste entries\n\r\n    Display thumbnail of copied images in list\n\r\n    Full Unicode support(display foreign characters)\n\r\n    UTF-8 support for language files(create language files in any language)\n\r\n    Uses sqlite database (www.sqlite.org)\n\r\n\n\r\n\n\r\nWhy not use built in Copy bins in Office or VS.Net?\n\r\n\n\r\n    VS.Net only collects pastes from inside Visual studio\n\r\n    No way to paste to external app\n\r\n    Can't search past clips\n\r\n    Limited storage of clips\n\r\n    Clips do not persist after closing Visual Studio\n\r\n\n\r\n\n\r\nThis download is for the 64bit version. If you need the 32bit version, download here.\n\r\n\n\r\n\n\r\n\n\r\nChangelog:\n\r\n\n\r\n3.23.124.0 10-26-2020\n\r\n\n\r\n    Don't auto hide the window when editing a clip\n\r\n    Don't hide the tooltip window when copying from html viewer, same as rtf\n\r\n    When set to always on top refresh active window on first mouse move over window\n\r\n    Don't refresh the list when a copy is made from the description window\n\r\n    Use on demand icu dll for upper/lower case manipulation\n\r\n    Removed icu dlls, use dll included in windows\n\r\n    Fixed gdi leaks\n\r\n    Handle shift - home to select all items above the current selection\n\r\n    Use string size to create strings, found data sometimes didn't have a null terminator so extra data was at the end of the string\n\r\n    Added a way to force crash, type crash in search and shift-control click\n\r\n    Added support for total commander diff\n\r\n    Enable html format by default if no formats are defined\n\r\n    Fixed issue with screen resolution changing with scaled dpi settings, window would go smaller\n\r\n    Updated c++ dependancies to the latest\n\r\n    Fixed issue with high cpu with search full text selected when only a few items are returend\n\r\n    Added a way through add ins to get/set the description\n\r\n    Added adv option to set the default editor font size\n\r\n    If searching for both description and full text use Distinct to ensure we don't return mutliple rows\n\r\n    Fixed issue with export to text and image only allowing 1000 clips\n\r\n    Refresh list after delete all non used clips from task tray\n\r\n    Added option to delete all non used clips\n\r\n    If database is on a network share refresh Ditto when showing if last write time of db has been updated\n\r\n    If db is on a network drive, or anything other than C: then wait for that db to come online\n\r\n    Added new global key to send a copy and save the current clipboard in one shot\n\r\n    Added option to not place cf_hdrop onto the drag object when dragging from Ditto. Found latest firefox wouldn't accept drops if the cf_hdrop type was on there\n\r\n    Enable / disable edit boxes for max count and keep days in config\n\r\n    Update diff paths\n\r\n    Order by sticky clip order first then group, then clip order - updated indexes\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\n\r\n\n\n\n\r\n\n\r\n\n\n\r\n\n\r\n\n\r\n\n\n\n\r\nClick here to visit the author's website.\r\n\r\n\n\r\nContinue below to download this file.\n\n\n\n\n\n\r\n  \r\n  \n\n\n    Downloads\r\n    Views\r\n    Developer\r\n    Last Update\r\n    Version\r\n    Size\r\n    Type\r\n    Rank\r\n  \r\n  \r\n    4,346\r\n    9,389\r\n    Ditto &lt;img src=\"https://www.oldergeeks.com/downloads/gallery/thumbs/Ditto42173_th.png\"border=\"0\"&gt;\r\n    Oct 27, 2020 - 11:09\r\n    3.23.124.0\r\n    4.61MB\r\n    ZIP\r\n    , out of 24 Votes.\r\n  \n\n\n  \r\n    File Tags\r\n  \r\n  \r\n    Ditto  v3.23.124.0  \r\n  \r\n  \r\n  \n\n\n\n\n\n\r\n  \r\n    \n\n\n\r\n\r\n\r\n&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp\r\n\r\n\r\n\n\r\nWhoa! Slow down there, Speedy.\n\r\nRead this and then continue to the download.\n\n\r\n\r\nLike seeing no ads? No misleading/fake download buttons?\n\r\nWe like it too! This site has been kept alive for 14 years\n\r\nbecause of people just like you who download and donate.\n\r\nNo one is stopping you from downloading without donating\n\r\nbut the site runs on the \"Honor System\". If your momma\n \r\nraised you to be honorable, make a donation and download\n\r\n'til ya turn blue. Make your momma proud!\n\n\n\n\nThank you! -Randy &amp; Deanna (The Older Geeks)\n\n\n\n\n\n\n\n\r\nMonthly operating costs = $650\n\r\nDonations for April = $806\n\r\nDonations over our monthly goal\nare set aside for future upgrades and\nhanded-over to Deanna for new shoes.\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nProcessed securely through Paypal.\n\r\nNo PayPal account required.\n\r\nYour bank statement will read: \"Home Computer Repair LLC\".\n\r\nThis is our computer store.\n\r\n\r\nOr...\n\r\n\r\n\n\n\n\n\r\nOr...\n\n\n\n\n\n\n\n\r\nOr...\n\r\n\r\nJust send a check to our computer store payable to Home Computer Repair LLC.\n\r\nOur address: Home Computer Repair LLC, 208 E. Water St. Mount Vernon, MO 65712\n\n\n\r\n\r\n\n\n\n\r\n\n\r\nRecent Super Donors ($50+)\n\r\n\n\n\n  Thanks, Warren\n\r\n  Thanks, Donnie\n\r\n  Thanks, Jane\n\r\n  Thanks, Frederik\n\n\n\n\n\r\nRecent Donors\n\r\n\n\n\n  Thanks, Stan\n\r\n  Thanks, John\n\r\n  Thanks, Luis\n\r\n  Thanks, Roger\n\r\n  Thanks, Steven\n\r\n  Thanks, Kathy\n\r\n  Thanks, Graham\n\r\n  Thanks, Bob\n\r\n  Thanks, Michael\n\r\n  Thanks, Simple Soft Services, Inc.\n\n\n\n\r\n\n\r\n\r\n\r\n\n\n\n\r\n   →→ Download Now ←← - \r\n      Click to Rate File - \n\r\nLike this download? Share it on Twitter → Tweet\r\n\n\n\n    \r\n  \nOlderGeeks.com Copyright (c) 2022 \r\n  \n\n\n\n",
+        "pages": null,
+        "comparison": {
+            "identical": {
+                "source": {
+                    "chars": {
+                        "starts": [
+                            238,
+                            383,
+                            460,
+                            672,
+                            753,
+                            801,
+                            864,
+                            968,
+                            1013,
+                            1113,
+                            1176,
+                            1234,
+                            1346,
+                            1423,
+                            1489,
+                            1536,
+                            1750,
+                            1837,
+                            1913
+                        ],
+                        "lengths": [
+                            57,
+                            29,
+                            50,
+                            60,
+                            27,
+                            40,
+                            79,
+                            23,
+                            76,
+                            36,
+                            41,
+                            92,
+                            54,
+                            46,
+                            29,
+                            91,
+                            67,
+                            75,
+                            42
+                        ]
+                    },
+                    "words": {
+                        "starts": [
+                            35,
+                            55,
+                            64,
+                            98,
+                            110,
+                            115,
+                            124,
+                            137,
+                            142,
+                            158,
+                            167,
+                            176,
+                            192,
+                            203,
+                            213,
+                            220,
+                            258,
+                            273,
+                            286
+                        ],
+                        "lengths": [
+                            10,
+                            5,
+                            9,
+                            10,
+                            3,
+                            7,
+                            11,
+                            3,
+                            14,
+                            7,
+                            7,
+                            14,
+                            9,
+                            8,
+                            5,
+                            17,
+                            13,
+                            12,
+                            5
+                        ]
+                    }
+                },
+                "suspected": {
+                    "chars": {
+                        "starts": [
+                            2564,
+                            2705,
+                            2778,
+                            2986,
+                            3065,
+                            3111,
+                            3172,
+                            3274,
+                            3317,
+                            3415,
+                            3476,
+                            3532,
+                            3642,
+                            3717,
+                            3781,
+                            3826,
+                            4036,
+                            4121,
+                            4197
+                        ],
+                        "lengths": [
+                            57,
+                            29,
+                            50,
+                            60,
+                            27,
+                            40,
+                            79,
+                            23,
+                            76,
+                            36,
+                            41,
+                            92,
+                            54,
+                            46,
+                            29,
+                            91,
+                            67,
+                            75,
+                            42
+                        ]
+                    },
+                    "words": {
+                        "starts": [
+                            341,
+                            363,
+                            374,
+                            410,
+                            423,
+                            429,
+                            439,
+                            453,
+                            459,
+                            476,
+                            486,
+                            496,
+                            513,
+                            525,
+                            536,
+                            544,
+                            584,
+                            600,
+                            613
+                        ],
+                        "lengths": [
+                            10,
+                            5,
+                            9,
+                            10,
+                            3,
+                            7,
+                            11,
+                            3,
+                            14,
+                            7,
+                            7,
+                            14,
+                            9,
+                            8,
+                            5,
+                            17,
+                            13,
+                            12,
+                            5
+                        ]
+                    }
+                }
+            },
+            "minorChanges": {
+                "source": {
+                    "chars": {
+                        "starts": [],
+                        "lengths": []
+                    },
+                    "words": {
+                        "starts": [],
+                        "lengths": []
+                    }
+                },
+                "suspected": {
+                    "chars": {
+                        "starts": [],
+                        "lengths": []
+                    },
+                    "words": {
+                        "starts": [],
+                        "lengths": []
+                    }
+                }
+            },
+            "relatedMeaning": {
+                "source": {
+                    "chars": {
+                        "starts": [],
+                        "lengths": []
+                    },
+                    "words": {
+                        "starts": [],
+                        "lengths": []
+                    }
+                },
+                "suspected": {
+                    "chars": {
+                        "starts": [],
+                        "lengths": []
+                    },
+                    "words": {
+                        "starts": [],
+                        "lengths": []
+                    }
+                }
+            }
+        }
+    },
+    "html": {
+        "value": null,
+        "pages": null,
+        "comparison": null
+    },
+    "version": 3
+}

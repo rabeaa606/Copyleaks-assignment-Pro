@@ -1,0 +1,273 @@
+{
+    "statistics": null,
+    "text": {
+        "value": "     Windows\n Mac\n WebApps\n Español\n \n    \n \n \n \n   \n      \n \n \n   EN ES\n \n  \n    An powerful extension to the standard Windows clipboard \n \n     Home\n Desktop Enhancements\n Ditto 3.24.184.0 (64-bit)\n Change Log\n    \n \n   \n \n Join our mailing listStay up to date with latest software releases, news, software discounts, deals and more.\nSubscribe\n \n  Free Download\n\n\n Security Status\n\n Share with Friends\n\nAlternatives Fences\n Windroy\n GameLoop\n Atlas Creator\n TextSeek\n Wallpaper\n LG True Color\n MAME\nView More »\n\n  \nDitto 3.24.184.0 (64-bit)March, 1st 2021  -  5.06 MB  -  Open Source\n\n\n  Free Download\n\n\n Security Status\n\n \n  Features\n Screenshots\n Change Log\n Old Versions\n   What's new in this version:\n - Don't auto hide the window when editing a clip\n- Don't hide the tooltip window when copying from html viewer, same as rtf\n- When set to always on top refresh active window on first mouse move over window\n- Don't refresh the list when a copy is made from the description window\n- Use on demand icu dll for upper/lower case manipulation\n- Removed icu dlls, use dll included in windows\n- Fixed gdi leaks\n- Handle shift - home to select all items above the current selection\n- Use string size to create strings, found data sometimes didn't have a null terminator so extra data was at the end of the string\n- Added a way to force crash, type crash in search and shift-control click\n- Added support for total commander diff\n- Enable html format by default if no formats are defined\n- Fixed issue with screen resolution changing with scaled dpi settings, window would go smaller\n- Updated c++ dependancies to the latest\n- Fixed issue with high cpu with search full text selected when only a few items are returend\n- Added a way through add ins to get/set the description\n- Added adv option to set the default editor font size\n- If searching for both description and full text use Distinct to ensure we don't return mutliple rows\n- Fixed issue with export to text and image only allowing 1000 clips\n- Refresh list after delete all non used clips from task tray\n- Added option to delete all non used clips\n- If database is on a network share refresh Ditto when showing if last write time of db has been updated\n- If db is on a network drive, or anything other than C: then wait for that db to come online\n- Added new global key to send a copy and save the current clipboard in one shot\n- Added option to not place cf_hdrop onto the drag object when dragging from Ditto. Found latest firefox wouldn't accept drops if the cf_hdrop type was on there\n- Enable / disable edit boxes for max count and keep days in config\n- Update diff paths\n- Order by sticky clip order first then group, then clip order - updated indexes\n \n  \n \n   Screenshots \n  \n      \n   Related Downloads \n     Ditto 3.24.214.0 (32-bit)  \n   Ditto 3.24.214.0 (64-bit) \n  \n   Top Downloads \n  MalwarebytesMalwarebytes 4.5.2\n BraveBrave Browser 1.37.116 (64-bit)\n BinanceBinance - Crypto Trading Platform\n PhotoshopAdobe Photoshop CC 2022 23.3.1 (64-bit)\n LDPlayerLDPlayer - Android Emulator 4.0.78\n Trade IdeasTrade Ideas - AI Stock Market Scanner\n BlueStacksBlueStacks App Player 5.7.200\n Adobe CCAdobe Creative Cloud 5.7.0.1307\n PDFelementWondershare PDFelement 8.3.12\n iTop VPNiTop VPN 3.3.0\n  More Popular Software » \n   \n   Comments and User Reviews \n  \n \n \n \n \n Join our mailing listStay up to date with latest software releases, news, software discounts, deals and more.\nSubscribe\n  \n \n \n License Types\n\n\nEach software is released under license type that can be found on program pages as well as on search or category pages. Here are the most common license types:\nFreewareFreeware programs can be downloaded used free of charge and without any time limitations. Freeware products can be used free of charge for both personal and professional (commercial use).\nOpen SourceOpen Source software is software with source code that anyone can inspect, modify or enhance. Programs released under this license can be used at no cost for both personal and commercial purposes. There are many different open source licenses but they all must comply with the Open Source Definition - in brief: the software can be freely used, modified and shared.\nFree to PlayThis license is commonly used for video games and it allows users to download and play the game for free. Basically, a product is offered Free to Play (Freemium) and the user can decide if he wants to pay the money (Premium) for additional features, services, virtual or physical goods that expand the functionality of the game. In some cases, ads may be show to the users.\nDemoDemo programs have a limited functionality for free, but charge for an advanced set of features or for the removal of advertisements from the program's interfaces. In some cases, all the functionality is disabled until the license is purchased. Demos are usually not time-limited (like Trial software) but the functionality is limited.\nTrialTrial software allows the user to evaluate the software for a limited amount of time. After that trial period (usually 15 to 90 days) the user can decide whether to buy the software or not. Even though, most trial software products are only time-limited some also have feature limitations.\nPaidUsually commercial software or games are produced for sale or to serve a commercial purpose.\n\nClick here to close\n\n\n Security Status\n\n\nTo make sure your data and your privacy are safe, we at FileHorse check all software installation files each time a new one is uploaded to our servers or linked to remote server. Based on the checks we perform the software is categorized as follows:\nCleanThis file has been scanned with VirusTotal using more than 70 different antivirus software products and no threats have been detected. It's very likely that this software is clean and safe for use.\n\nSuspiciousThere are some reports that this software is potentially malicious or may install other unwanted bundled software. These could be false positives and our users are advised to be careful while installing this software.\n\nWarningIt's very likely that this is software is malicious or contains unwanted bundled software. Users are advised look for alternatives for this software or be extremely careful when installing and using this software.\n\nDisabledThis software is no longer available for the download. This could be due to the program being discontinued, having a security issue or for other reasons.\n\n\nClick here to close\n\n\n    \nYoutube\nTwitter\nRSS\nHome\nAbout Us\nSubmit Program\nTerms\nPrivacy\nDMCA\nSoftware Policy\nCookie Policy\nUninstall\nContact\n Copyright © 2022 Full Stack Technology FZCO. All rights reserved.\n \n  \n           ",
+        "pages": null,
+        "comparison": {
+            "identical": {
+                "source": {
+                    "chars": {
+                        "starts": [
+                            14,
+                            69,
+                            149,
+                            238,
+                            315,
+                            383,
+                            460,
+                            533,
+                            672,
+                            753,
+                            801,
+                            864,
+                            968,
+                            1013,
+                            1113,
+                            1176,
+                            1234,
+                            1346,
+                            1489,
+                            1647,
+                            1750,
+                            1837,
+                            1913
+                        ],
+                        "lengths": [
+                            35,
+                            62,
+                            67,
+                            57,
+                            38,
+                            29,
+                            50,
+                            117,
+                            60,
+                            27,
+                            40,
+                            79,
+                            23,
+                            76,
+                            36,
+                            41,
+                            92,
+                            54,
+                            29,
+                            81,
+                            67,
+                            75,
+                            42
+                        ]
+                    },
+                    "words": {
+                        "starts": [
+                            1,
+                            9,
+                            21,
+                            35,
+                            47,
+                            55,
+                            64,
+                            75,
+                            98,
+                            110,
+                            115,
+                            124,
+                            137,
+                            142,
+                            158,
+                            167,
+                            176,
+                            192,
+                            213,
+                            239,
+                            258,
+                            273,
+                            286
+                        ],
+                        "lengths": [
+                            6,
+                            10,
+                            12,
+                            10,
+                            6,
+                            5,
+                            9,
+                            21,
+                            10,
+                            3,
+                            7,
+                            11,
+                            3,
+                            14,
+                            7,
+                            7,
+                            14,
+                            9,
+                            5,
+                            17,
+                            13,
+                            12,
+                            5
+                        ]
+                    }
+                },
+                "suspected": {
+                    "chars": {
+                        "starts": [
+                            716,
+                            765,
+                            839,
+                            922,
+                            993,
+                            1055,
+                            1120,
+                            1187,
+                            1320,
+                            1395,
+                            1437,
+                            1494,
+                            1592,
+                            1631,
+                            1725,
+                            1782,
+                            1834,
+                            1940,
+                            2071,
+                            2217,
+                            2314,
+                            2395,
+                            2471
+                        ],
+                        "lengths": [
+                            35,
+                            62,
+                            67,
+                            57,
+                            38,
+                            29,
+                            50,
+                            117,
+                            60,
+                            27,
+                            40,
+                            79,
+                            23,
+                            76,
+                            36,
+                            41,
+                            92,
+                            54,
+                            29,
+                            81,
+                            67,
+                            75,
+                            42
+                        ]
+                    },
+                    "words": {
+                        "starts": [
+                            90,
+                            100,
+                            114,
+                            130,
+                            144,
+                            154,
+                            167,
+                            180,
+                            205,
+                            219,
+                            226,
+                            237,
+                            252,
+                            259,
+                            277,
+                            288,
+                            299,
+                            317,
+                            342,
+                            372,
+                            393,
+                            410,
+                            423
+                        ],
+                        "lengths": [
+                            6,
+                            10,
+                            12,
+                            10,
+                            6,
+                            5,
+                            9,
+                            21,
+                            10,
+                            3,
+                            7,
+                            11,
+                            3,
+                            14,
+                            7,
+                            7,
+                            14,
+                            9,
+                            5,
+                            17,
+                            13,
+                            12,
+                            5
+                        ]
+                    }
+                }
+            },
+            "minorChanges": {
+                "source": {
+                    "chars": {
+                        "starts": [],
+                        "lengths": []
+                    },
+                    "words": {
+                        "starts": [],
+                        "lengths": []
+                    }
+                },
+                "suspected": {
+                    "chars": {
+                        "starts": [],
+                        "lengths": []
+                    },
+                    "words": {
+                        "starts": [],
+                        "lengths": []
+                    }
+                }
+            },
+            "relatedMeaning": {
+                "source": {
+                    "chars": {
+                        "starts": [],
+                        "lengths": []
+                    },
+                    "words": {
+                        "starts": [],
+                        "lengths": []
+                    }
+                },
+                "suspected": {
+                    "chars": {
+                        "starts": [],
+                        "lengths": []
+                    },
+                    "words": {
+                        "starts": [],
+                        "lengths": []
+                    }
+                }
+            }
+        }
+    },
+    "html": {
+        "value": null,
+        "pages": null,
+        "comparison": null
+    },
+    "version": 3
+}
